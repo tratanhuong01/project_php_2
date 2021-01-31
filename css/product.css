@@ -1,0 +1,20 @@
+.spproduct {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+select {
+    width: 183px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: aqua;
+}
+button#ls {
+    width: 60px;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    border: 1px solid;
+}

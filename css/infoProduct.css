@@ -1,0 +1,105 @@
+.info {
+    width: 100%;
+    display: flex;
+    padding: 2em 0em;
+}
+
+.info-left {
+    width: 30%;
+}
+
+.info-right {
+    width: 70%;
+}
+
+.news {
+    width: 100%;
+    display: flex;
+    padding: 10px 0px;
+}
+
+.news-left {
+    width: 25%;
+}
+
+.news-left img {
+    width: 100%;
+}
+
+.news-right {
+    width: 73%;
+    padding-right: 2%;
+}
+
+.news-right h2 {
+    font-size: 15px;
+    padding: 10px;
+}
+.info-right-1 {
+    width: 100%;
+    display: flex;
+    padding-bottom: 2em;
+}
+
+.info-right-1-a {
+    width: 40%;
+}
+
+.info-right-1-a img {
+    width: 100%;
+}
+
+.info-right-1-b {
+    width: 60%;
+}
+.info-right-1-b h3 {
+    font-size: 22px;
+    padding: 11px;
+}
+.info-right-1-b h4 {
+    font-size: 20px;
+    padding: 11px;
+    color: red;
+}
+button#datMua {
+    width: 45%;
+    padding: 10px;
+    background-color: #668C3A;
+    font-weight: bold;
+    border-radius: 10px;
+    border: navajowhite;
+    color: white;
+}
+button#tuVan{
+    width: 45%;
+    padding: 10px;
+    background-color: #FDF8CD;
+    font-weight: bold;
+    border-radius: 10px;
+    border: navajowhite;
+    color: black;
+}
+.tite {
+    width: 100%;
+    padding: 1em 0em;
+}
+
+.tite ul {
+    display: flex;
+    border-bottom: 2px solid;
+}
+
+.tite ul li {
+    padding: 11px 20px;
+}
+
+.tite ul li:nth-child(1) {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.spnear {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
